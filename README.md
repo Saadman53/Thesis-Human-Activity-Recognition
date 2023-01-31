@@ -1,1 +1,1 @@
-# Thesis-Human-Action-Recognition
+# Thesis-Human-Activity-Recognition
